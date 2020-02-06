@@ -1,0 +1,1 @@
+There are a few files that were given to us that we did not have to code. Those would be Ackerman.h, Ackerman.cpp, and the makefile (although I do have some knowledge of makefiles from a previous class)
